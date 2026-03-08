@@ -26,11 +26,17 @@ Users can add tasks, mark them as completed, and remove tasks easily.
 3. Click **Add** to add the task.
 4. Click on a task to mark it as completed.
 5. Click the delete button to remove the task.
-
 ---
+## Project Screenshot
 
-## 📂 Project Structure
-
+![To Do List Screenshot](todo-screenshot.png)
+todo-list
+│
+├── index.html
+├── style.css
+├── script.js
+├── todo-screenshot.png
+└── README.md
 
 ## 👩‍💻 Author
 Bhargavi
